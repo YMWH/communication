@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>947</width>
+    <height>715</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>讯影v1.0</string>
+  </property>
+  <widget class="QPushButton" name="send_out">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>503</y>
+     <width>112</width>
+     <height>201</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>俺要说话</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="giving_flower">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>60</y>
+     <width>105</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>花花</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="giving_faeces">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>110</y>
+     <width>105</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>便便</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="giving_gold">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>150</y>
+     <width>105</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>金条</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="giving_car">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>200</y>
+     <width>105</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>跑车</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="giving_plane">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>240</y>
+     <width>105</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>灰机</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="giving_rocket">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>290</y>
+     <width>105</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>火箭</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="giving_UFO">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>340</y>
+     <width>105</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>UFO</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="giving_nice">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>390</y>
+     <width>105</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>666</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="gift_giving">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>440</y>
+     <width>112</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>送礼物</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="chat_out">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>524</y>
+     <width>791</width>
+     <height>171</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="information_box">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>40</y>
+     <width>541</width>
+     <height>461</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="list_box">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>40</y>
+     <width>221</width>
+     <height>461</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
